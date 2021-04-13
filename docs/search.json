@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-13T11:50:37-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Amanda Brackett",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n      \r\n      Amanda Brackett\r\n      \r\n      \r\n      Hello\r\n      Publications\r\n      Teaching\r\n      \r\n      \r\n      \r\n      ☰\r\n      \r\n      \r\n      \r\n        \r\n          \r\n            Amanda Brackett\r\n          \r\n          \r\n            \r\n              Welcome to my website! See portfolio for past projects\r\n            \r\n            \r\n              Welcome to my website! See portfolio for past projects\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    \r\n                \r\n                                \r\n                  \r\n                    \r\n                \r\n                                \r\n                  \r\n                    \r\n                \r\n                                \r\n                  \r\n                    \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-04-13T11:50:39-07:00"
+    },
+    {
+      "path": "teaching.html",
+      "title": "Untitled",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-13T11:50:42-07:00"
+    }
+  ],
+  "collections": []
+}
