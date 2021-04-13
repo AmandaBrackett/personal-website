@@ -10,6 +10,11 @@ navbar:
     - text: "Publications"
       href: about.html
     - text: "Teaching"
+      menu:
+         - text: "First article"
+           href: articles/article1.html
+         - text: "Second article"
+           href: articles/article2.html
       href: teaching.html
     - icon: fab fa-github
       href: https://github.com/aosmith16/personal-website
